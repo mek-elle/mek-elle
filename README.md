@@ -1,4 +1,5 @@
-## Hi there 👋
+he/him\
+very much a beginner
 
 <!--
 **mek-elle/mek-elle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
